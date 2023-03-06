@@ -1,0 +1,5 @@
+
+Write some code
+Stage the file
+Commit the file
+Push the changes
